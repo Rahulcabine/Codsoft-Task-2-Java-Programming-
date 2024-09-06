@@ -1,2 +1,5 @@
 # Codsoft-Task-2-Java-Programming-
-Task 2
+Codsoft Virtual Taining 
+Task 2 : Grade Calculator
+Author : Brajbhusan Kumar
+
